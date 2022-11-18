@@ -12,6 +12,8 @@
 ## install 
 - setup ansible playbook and run like https://github.com/kubernetes-sigs/kubespray#usage
 
+## setup hetzner volume csi 
+follow setup in https://github.com/hetznercloud/csi-driver
 
 ## setup argocd
 
